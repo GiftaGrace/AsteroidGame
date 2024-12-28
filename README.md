@@ -27,13 +27,13 @@ Minimalistic Design: Retro-style graphics with a focus on gameplay.
 🛠 Installation & Setup
 
 Clone this repository:
-
+```
 git clone https://github.com/GiftaGrace/AsteroidGame.git
-
+```
 Install required dependencies:
-
+```
 pip install pygame
-
+```
 Run the game:
 
 python asteroid_blaster.py
