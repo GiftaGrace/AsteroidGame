@@ -1,4 +1,4 @@
-## 🚀 Asteroid Blaster
+# 🚀 Asteroid Blaster
 
 Welcome to Asteroid Blaster, a thrilling 2D space adventure where you pilot a spaceship, dodge deadly asteroids, and blast your way to survival! Test your reflexes and strategy in this retro-style arcade game built with Python and Pygame.
 
@@ -28,11 +28,11 @@ Minimalistic Design: Retro-style graphics with a focus on gameplay.
 
 Clone this repository:
 
-'''git clone https://github.com/GiftaGrace/AsteroidGame.git'''
+git clone https://github.com/GiftaGrace/AsteroidGame.git
 
 Install required dependencies:
 
-'''pip install pygame'''
+pip install pygame
 
 Run the game:
 
